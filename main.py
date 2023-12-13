@@ -2,7 +2,7 @@ import turtle
 
 
 drawing_board = turtle.Screen()
-drawing_board.bgcolor("#333135")
+drawing_board.bgcolor("#E3773A")
 drawing_board.title("Python Turtle")
 
 
